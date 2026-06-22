@@ -247,7 +247,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ### Agent & Automation SDKs
 
-- [Edge Protocol SDK](https://github.com/fluturecode/edge) - Programmable trust infrastructure for autonomous AI agents on Sui. EdgePass lets agents transact within user-defined policy boundaries — budget, merchants, thresholds, expiry — without key sharing. Works across DeFi, gaming, subscriptions, enterprise, and consumer apps. `npm install @edge-protocol/sdk`
+- [Edge Protocol SDK](https://github.com/fluturecode/edge) - Programmable trust infrastructure for autonomous AI agents on Sui. EdgePass lets agents transact within user-defined policy boundaries — budget, merchants, thresholds, expiry — without key sharing. Works across DeFi, gaming, subscriptions, enterprise, and consumer apps. Install via `npm install @edge-protocol/sdk`.
   
 ## Infrastructure as Code
 
